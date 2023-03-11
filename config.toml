@@ -86,3 +86,34 @@ theme = "relearn-main"
   disableExplicitIndexURLs = false
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
+
+  [[menu.shortcuts]]
+name = "• Općina Velika Kladuša"
+identifier = "ds"
+url = "https://velikakladusa.gov.ba/"
+weight = 10
+
+[[menu.shortcuts]]
+name = "• eUprava"
+url = "https://euprava.velikakladusa.gov.ba/"
+weight = 11
+
+[[menu.shortcuts]]
+name = "• eVijeće"
+identifier = "hugodoc"
+url = "https://evijece.velikakladusa.gov.ba/"
+weight = 20
+
+[[menu.shortcuts]]
+name = "• Kontakt"
+url = "https://nermin.xyz"
+weight = 30
+
+
+[Languages]
+  [Languages.en]
+    title = "eDokumenti"
+    weight = 1
+    languageName = "English"
+    landingPageURL = "/"
+    landingPageName = "<i class='fas fa-home'></i> Početna stranica"
