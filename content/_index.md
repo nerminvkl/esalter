@@ -6,7 +6,7 @@ title = "eDokumenti - Općina Velika Kladuša"
 
 ---
 
-![Spock](https://imaginative-marzipan-aef130.netlify.app/slike/intro.jpeg)
+![Intro](https://imaginative-marzipan-aef130.netlify.app/slike/intro.png)
 
 Dobrodošli na našu uslugu elektronskih dokumenata! Pružamo brz, siguran i praktičan način pristupa važnim dokumentima bilo gdje i bilo kada. Bez obzira trebate li pregledati, podijeliti ili preuzeti svoje datoteke, naša platforma omogućuje vam jednostavno upravljanje digitalnim dokumentima. Naše korisničko sučelje i alati za pretraživanje osiguravaju da možete brzo i lako pronaći ono što vam je potrebno. S našom pouzdanom i skalabilnom infrastrukturom, možete biti sigurni da su vaši dokumenti uvijek sigurni i dostupni. Počnite koristiti našu uslugu elektronskih dokumenata danas i iskusite prednosti papirnog ureda.
 
