@@ -1,8 +1,8 @@
 +++
-title = "Službeni glasnici po godinama"
+title = "Službeni glasnici po izdanjima"
 +++
 
-#### Pregled službenih glasnika po godinama
+#### Pregled službenih glasnika po izdanjima
 
 ---
 
