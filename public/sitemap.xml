@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://example.org/slglasnici/index.html</loc>
+  </url>
+  <url>
+    <loc>http://example.org/sluzbe/index.html</loc>
+  </url>
+  <url>
+    <loc>http://example.org/odsjeci/index.html</loc>
+  </url>
+  <url>
     <loc>http://example.org/categories/index.html</loc>
   </url>
   <url>
     <loc>http://example.org/index.html</loc>
+  </url>
+  <url>
+    <loc>http://example.org/slglasnici/2023/index.html</loc>
+  </url>
+  <url>
+    <loc>http://example.org/slglasnici/2023/1/index.html</loc>
   </url>
   <url>
     <loc>http://example.org/tags/index.html</loc>

@@ -2,16 +2,16 @@
 other = "ltr"
 
 [Search]
-other = "Search"
+other = "Traži"
 
 [Search-placeholder]
-other = "Search..."
+other = "Traži..."
 
 [No-results-found]
-other = "No results found for \"{0}\""
+other = "Nisu pronađeni rezultati za \"{0}\""
 
 [N-results-found]
-other = "{1} results found for \"{0}\""
+other = "{1} rezultat/i pronađeni za \"{0}\""
 
 [Clear-History]
 other = "Clear History"
@@ -23,28 +23,28 @@ other = "Attachments"
 other = "Error"
 
 [message-404]
-other = "Woops. Looks like this page doesn't exist ¯\\_(ツ)_/¯."
+other = "Woops. Izgleda da ta stranica ne postoji ¯\\_(ツ)_/¯."
 
 [Go-to-homepage]
-other = "Go to homepage"
+other = "Nazad na početnu"
 
 [Edit-this-page]
 other = "Edit"
 
 [Print-this-chapter]
-other = "Print whole chapter"
+other = "Print cijelo poglavlje"
 
 [Shortcuts-Title]
-other = "More"
+other = "Više"
 
 [Expand-title]
 other = "Expand me..."
 
 [Navigation-toggle]
-other = "Menu"
+other = "Meni"
 
 [Toc-toggle]
-other = "Table of Contents"
+other = "Sadržaj"
 
 [Byte-symbol]
 other = "B"
@@ -93,3 +93,5 @@ other = "Submenu {{.}}"
 
 [Subsections]
 other = "Subsections of {{.}}"
+
+
