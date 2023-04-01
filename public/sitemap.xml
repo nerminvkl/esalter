@@ -1,27 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/slglasnici/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/slglasnici/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/sluzbe/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/sluzbe/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/odsjeci/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/odsjeci/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/categories/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/categories/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/slglasnici/2023/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/slglasnici/2023/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/slglasnici/2023/1/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/slglasnici/2023/1/index.html</loc>
   </url>
   <url>
-    <loc>http://example.org/tags/index.html</loc>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/slglasnici/2023/2/index.html</loc>
+  </url>
+  <url>
+    <loc>https://imaginative-marzipan-aef130.netlify.app/tags/index.html</loc>
   </url>
 </urlset>

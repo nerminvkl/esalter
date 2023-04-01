@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Službeni glasnici on eDokumenti</title>
-    <link>http://example.org/slglasnici/index.html</link>
-    <description>Recent content in Službeni glasnici on eDokumenti</description>
+    <title>Službeni glasnici 2023. godina on eDokumenti</title>
+    <link>https://imaginative-marzipan-aef130.netlify.app/slglasnici/index.html</link>
+    <description>Recent content in Službeni glasnici 2023. godina on eDokumenti</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/slglasnici/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://imaginative-marzipan-aef130.netlify.app/slglasnici/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Službeni glasnici po godinama</title>
-      <link>http://example.org/slglasnici/2023/index.html</link>
+      <title>Službeni glasnici po izdanjima</title>
+      <link>https://imaginative-marzipan-aef130.netlify.app/slglasnici/2023/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://example.org/slglasnici/2023/index.html</guid>
-      <description>Pregled službenih glasnika po godinama Da bi izvršili pregled glasnika molimo Vas da izaberete željenu godinu:
+      <guid>https://imaginative-marzipan-aef130.netlify.app/slglasnici/2023/index.html</guid>
+      <description>Pregled službenih glasnika po izdanjima Da bi izvršili pregled glasnika molimo Vas da izaberete željenu godinu:
 2023 2022 2021 2020</description>
     </item>
   </channel>
